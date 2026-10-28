@@ -1,4 +1,39 @@
-# Simulating Physiological Arousal and Psychological State
+#  Psychological and Physiological Data Analysis
+Projects
+
+1. Multimodal Psychophysics and Consumer Threshold Simulation
+
+Notebook: Multimodal_psychophysics_consumer_threshold.ipynb
+
+This project explores the simulation and visualisation of physiological signals in a psychophysical context.
+
+Methods and tools
+
+Python, NumPy, and Matplotlib
+
+Simulated physiological signals, including ECG, heart rate, and electrodermal activity
+
+Visualisation of signal patterns
+
+Sigmoidal threshold modelling
+
+Important limitation: The signals are simulated. They are intended to demonstrate analytical methods and computational concepts, not to represent experimentally collected physiological measurements or validated psychological findings.
+
+2. Reproducible Simulation
+
+Notebook: Reproducible_simulation.ipynb
+
+This notebook explores a reproducible workflow for simulated data analysis.
+
+Methods and tools
+
+Python and NumPy
+
+Descriptive statistics
+
+Spearman correlation analysis
+
+Data visualisation using Matplotlib
 
 ## Overview
 A small Python project demonstrating reproducible simulation, descriptive analysis, correlation analysis, and visualisation of illustrative physiological and subjective-state signals.
@@ -16,11 +51,6 @@ All observations are simulated. They are not real participant measurements.
 - Spearman correlation analysis
 - Visualisation using Matplotlib
 
-## How to run
-1. Install Python.
-2. Install dependencies with `pip install -r requirements.txt`.
-3. Open `01_reproducible_physiological_simulation.ipynb` in Jupyter or Google Colab.
-4. Run all cells from beginning to end.
 
 ## Outputs
 - `outputs/simulated_data.csv`
