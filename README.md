@@ -4,7 +4,7 @@
 A small Python project demonstrating reproducible simulation, descriptive analysis, correlation analysis, and visualisation of illustrative physiological and subjective-state signals.
 
 ## Research question
-How can simulated physiological and subjective-state variables be generated, visualised, and explored using a reproducible computational workflow? The given workflow aims to assess the exact threshold of EDA and heart rate at which a consumer switches to a different brand owing to frustration arising from high cost, lack of repairability, and shorter use-cycle leading to frequent replacements. 
+How can a reproducible computational workflow generate, visualise, and explore simulated physiological and subjective-state variables? At what threshold does a consumer switch over to an alternative brand owing to frustration with products that have run out of their use-cycle?
 
 ## Data
 All observations are simulated. They are not real participant measurements.
